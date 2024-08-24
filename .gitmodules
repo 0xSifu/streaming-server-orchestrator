@@ -1,0 +1,9 @@
+[submodule "orchestrator"]
+	path = orchestrator
+	url = https://github.com/0xSifu/orchestrator
+[submodule "streaming-service"]
+	path = streaming-service
+	url = https://github.com/0xSifu/streaming-service
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/0xSifu/user-service
